@@ -1,0 +1,54 @@
+
+
+div{
+    text-align: center;
+    padding: 30px;
+    font-size: 25px;
+}
+
+tr td{
+    height: 40px;
+    width: 52px;
+}
+
+input{
+    height: 90px;
+    width: 82px;
+    background-color: #5b5860;
+    border: 0.1px transparent #5b5860;
+    border-radius: 25px;
+    font-size: 30px;
+   
+
+}
+
+input[type="button"]{
+    color: azure;
+    margin: 1px 1px 1px 1px;
+}
+
+.cal{
+    margin-left: 500px;     
+    background-color: black; 
+    border-radius: 15px;
+    padding: 5px;
+}
+
+#result{
+    width: 247px;
+    height: 62px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+
+
+#btn{
+    background-color: #D04848;
+    border-radius: 15px;
+    width: 80px;
+    height: 70px;
+}
+
+
+/* S147392 */
